@@ -1,4 +1,4 @@
-Last updated: [11/06/2023] (DD/MM/YYYY)
+# Last updated: [11/06/2023] (DD/MM/YYYY)
 
 ServerCaptcha ("us", "we", or "our") operates the ServerCaptcha Discord bot (the "Bot"). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information we receive from users of the Bot.
 
